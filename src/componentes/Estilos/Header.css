@@ -1,0 +1,20 @@
+h1 {
+    font-size: 40px;
+    color: #14a373;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  h2 {
+    font-size: 24px;
+    color: #14a373;
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 2px solid #b3f5d9;
+  }
+  p {
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+    padding: 20px 0;
+  }
